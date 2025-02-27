@@ -1,0 +1,75 @@
+:root {
+    --primary-color: #2E86C1;
+    --secondary-color: #58D68D;
+    --background-color: #F4F6F7;
+    --text-color: #2C3E50;
+    --accent-color: #F39C12;
+    --font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: var(--font-family);
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: var(--primary-color);
+    padding: 15px;
+    text-align: center;
+}
+
+nav {
+    background-color: var(--secondary-color);
+}
+
+nav ul {
+    list-style: none;
+}
+
+.title {
+    background-color: var(--secondary-color);
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    /* ajuste la valeur selon tes besoins */
+    padding-right: 20px;
+    /* ajuste la valeur selon tes besoins */
+    max-width: 1200px;
+    /* largeur maximale pour bien centrer, ajuster si nécessaire */
+}
+
+main h1 {
+    color: var(--primary-color);
+}
+
+section h2 {
+    color: var(--primary-color);
+
+}
+
+article h2,
+h3 {
+    color: var(--primary-color);
+
+}
+
+.card-body h2 {
+    color: var(--primary-color);
+}
+
+
+footer {
+    background-color: var(--primary-color);
+    text-align: center;
+    padding: 10px;
+    /* position: absolute; */
+    bottom: 0;
+    width: 100%;
+}
