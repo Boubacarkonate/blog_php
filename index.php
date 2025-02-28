@@ -32,7 +32,7 @@
                     <div class="col-12 col-md-6">
                         <div class="card h-100 border border-0">
                             <div class="card-body d-flex flex-column">
-                                <h2 class="card-title pb-4">À propos de <span>MediCare Blog</span></h2>
+                                <h3 class="card-title pb-4 textUnderlined">À propos de <span>MediCare Blog</span></h3>
                                 <p class="card-text">
                                     Bienvenue sur [Nom du Blog], un espace dédié à l'univers du
                                     médico-social en France. Nous avons créé
@@ -71,7 +71,8 @@
                     <div class="col-12 col-md-6">
                         <div class="card d-flex justify-content-center align-items-center h-100 border border-0">
                             <div class="card-body text-center w-75">
-                                <img src="./public/solidarite.png" alt="Logo" class="img-fluid h-100">
+                                <img src="./public/media/solidarite.png" alt="Logo" loading="lazy"
+                                    class="img-fluid h-100">
                             </div>
                         </div>
                     </div>
@@ -80,7 +81,7 @@
         </section>
         <section class="d-grid gap-5 pt-5">
             <article>
-                <h2 class="p-2">Qu'est-ce que le secteur médico-social ?</h2>
+                <h2 class="p-2 textUnderlined">Qu'est-ce que le secteur médico-social ?</h2>
                 <p>Le secteur médico-social est une interface entre le domaine médical et le secteur
                     social. Il vise à
                     assurer une prise en charge globale des personnes ayant besoin d'un accompagnement spécifique, tant
@@ -102,7 +103,7 @@
                 </ul>
             </article>
             <article>
-                <h2 class="p-2">Les acteurs du secteur médico-social</h2>
+                <h2 class="p-2 textUnderlined">Les acteurs du secteur médico-social</h2>
                 <ul>
                     <p>
                         Le secteur médico-social repose sur une multitude d'acteurs publics et privés qui travaillent de
@@ -131,7 +132,7 @@
                 </ul>
             </article>
             <article>
-                <h2 class="p-2">Les enjeux et défis du secteur</h2>
+                <h2 class="p-2 textUnderlined">Les enjeux et défis du secteur</h2>
                 <p>Le secteur médico-social est confronté à de nombreux défis qui nécessitent des adaptations constantes
                     pour répondre aux besoins croissants de la population.</p>
 
@@ -155,7 +156,7 @@
                     <div class="col-12 col-md-6">
                         <div class="card d-flex justify-content-center align-items-center h-100 border border-0">
                             <div class="card-body text-center w-75">
-                                <img src="./public/pers.jpg" alt="Logo" class="img-fluid h-100">
+                                <img src="./public/media/pers.jpg" alt="Logo" loading="lazy" class="img-fluid h-100">
                             </div>
                         </div>
                     </div>
@@ -165,7 +166,7 @@
                     <div class="col-12 col-md-6">
                         <div class="card d-flex justify-content-center align-items-center h-100 border border-0">
                             <div class="card-body text-center w-75">
-                                <img src="./public/outil.jpg" alt="Logo" class="img-fluid h-100">
+                                <img src="./public/media/outil.jpg" alt="Logo" loading="lazy" class="img-fluid h-100">
                             </div>
                         </div>
                     </div>
@@ -199,7 +200,8 @@
                     <div class="col-12 col-md-6">
                         <div class="card d-flex justify-content-center align-items-center h-100 border border-0">
                             <div class="card-body text-center w-75">
-                                <img src="./public/personnes.png" alt="Logo" class="img-fluid h-100">
+                                <img src="./public/media/personnes.png" alt="Logo" loading="lazy"
+                                    class="img-fluid h-100">
                             </div>
                         </div>
                     </div>
@@ -208,7 +210,8 @@
                     <div class="col-12 col-md-6">
                         <div class="card d-flex justify-content-center align-items-center h-100 border border-0 ">
                             <div class="card-body text-center w-75">
-                                <img src="./public/informatique.jpg" alt="Logo" class="img-fluid h-100">
+                                <img src="./public/media/informatique.jpg" alt="Logo" loading="lazy"
+                                    class="img-fluid h-100">
                             </div>
                         </div>
                     </div>
@@ -229,7 +232,7 @@
             </article>
 
             <article>
-                <h2 class="p-2">Perspectives d'avenir</h2>
+                <h2 class="p-2 textUnderlined">Perspectives d'avenir</h2>
                 <p>L'avenir du secteur médico-social repose sur une meilleure coordination entre les différents acteurs,
                     une
                     adaptation des infrastructures aux besoins émergents, ainsi qu'une reconnaissance accrue des
